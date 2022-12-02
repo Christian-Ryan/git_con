@@ -1,0 +1,15 @@
+---
+title: "test"
+author: "CR"
+date: "2022-12-02"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Test
+
+Can we link the RMarkdown to git? 
+
